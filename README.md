@@ -62,14 +62,12 @@ expectations.
 ---
 
 ## Project structure: 
-1. audio/ (Raw audio files .wav)
+1. spectrograms.zip (Generated spectrogram images)
    
-2. spectrograms/ (Generated spectrogram images)
+2. Data_collection_and_analysis.ipynb
    
-3. Data_collection_and_analysis.ipynb
+3. Model_training.ipynb
    
-4. Model_training.ipynb
-   
-5. df_fixed.csv (Audio file labels)
+4. df_fixed.csv (Audio file labels)
   
-6. README.md
+5. README.md
